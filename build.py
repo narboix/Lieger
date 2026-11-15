@@ -296,7 +296,7 @@ def layout(lang: str, key: str, title: str, body: str, hero: str = "") -> str:
 <a href="{FILES[lang]['terms']}">{t['nav']['terms']}</a>
 </div>
 <span>© {YEAR} {PUBLISHER}</span>
-<span>{t['footer_by']} <img class="brel" src="{prefix}assets/brel-lab.png" alt="brel lab"></span>
+<span class="by">{t['footer_by']} <img class="brel" src="{prefix}assets/brel-lab.png" alt="brel lab"></span>
 </div>
 </footer>
 </body>

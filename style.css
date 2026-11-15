@@ -135,7 +135,8 @@ mark.todo { background: #ffe08a; color: #5a3b00; padding: 0 3px; border-radius: 
 .site-footer .inner { max-width: 980px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 20px; align-items: center; }
 .site-footer a { color: #e7e3ff; }
 .site-footer .links { display: flex; gap: 16px; flex-wrap: wrap; margin-right: auto; }
-.site-footer img.brel { height: 38px; width: auto; background: #fff; padding: 6px 10px; border-radius: 10px; }
+.site-footer .by { display: inline-flex; align-items: center; gap: 12px; }
+.site-footer img.brel { display: block; height: 34px; width: auto; background: #fff; border-radius: 8px; }
 
 @media (max-width: 760px) {
   .hero .inner { grid-template-columns: 1fr; }

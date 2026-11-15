@@ -42,7 +42,7 @@ La app no incluye ningún software de terceros de analítica, publicidad ni rede
 
 ## Tus derechos
 
-Como los datos no llegan a nosotros, no podemos consultarlos, rectificarlos ni suprimirlos. Puedes eliminarlos tú borrando la app. Si tienes cualquier duda sobre la privacidad o crees que tus derechos no se han respetado, escribe a aibrickcode@gmail.com. También puedes presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).
+Como los datos no llegan a nosotros, no podemos consultarlos, rectificarlos ni suprimirlos. Puedes eliminarlos tú borrando la app. Si tienes cualquier duda sobre la privacidad o crees que tus derechos no se han respetado, escribe a aibrickcode@gmail.com.
 
 ## Cambios
 

@@ -42,7 +42,7 @@ L'app no inclou cap programari de tercers d'analítica, publicitat ni xarxes soc
 
 ## Els vostres drets
 
-Com que les dades no arriben a nosaltres, no en podem consultar, rectificar ni suprimir. Podeu eliminar-les vosaltres esborrant l'app. Si teniu qualsevol dubte sobre la privacitat o creieu que els vostres drets no s'han respectat, escriviu a aibrickcode@gmail.com. També podeu presentar una reclamació a l'Agència Espanyola de Protecció de Dades (www.aepd.es).
+Com que les dades no arriben a nosaltres, no en podem consultar, rectificar ni suprimir. Podeu eliminar-les vosaltres esborrant l'app. Si teniu qualsevol dubte sobre la privacitat o creieu que els vostres drets no s'han respectat, escriviu a aibrickcode@gmail.com.
 
 ## Canvis
 
